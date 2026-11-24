@@ -1,5 +1,3 @@
-### The important distinction: If you only complete the assignment, present it as a prompt engineering case study. If you build the application, you can present it as an AI-powered software engineering project.
-
 
 ## SQL Validation Results
 
